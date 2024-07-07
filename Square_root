@@ -1,0 +1,11 @@
+#(Solution using Exponentiation)
+# num = 64
+# num1 = int(input("Enter a number here: "))
+# sr = num**(0.5)
+# print("The square root of the number is: ", sr)
+
+#(Solution using math module)
+import math
+num = int(input("Enter a number here: "))
+sr = math.sqrt(num)
+print("The square root of the number is: ", sr)
