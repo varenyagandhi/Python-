@@ -1,0 +1,12 @@
+#(Solution with pre defined variables)
+# num1 = 30
+# num2 = 40
+# print("thesum of the given two numbers is: ", sum)
+
+#(Solution with user inputs)
+num1 = float(input("Enter a number here: "))
+num2 = float(input("Enter a number here: "))
+
+sum = num1 + num2
+
+print("The sum of the two numbers is: ", sum)
